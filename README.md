@@ -1,7 +1,10 @@
 # Flask Blogging Platform
 
 #### Check out our Flask Blogging Platform in action with this demo video:
-<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">Demo Video</a>
+
+
+https://github.com/Rohitashsingh89/flask_blogging/assets/93479842/f58d3040-2928-4c1a-a8a7-b7d5dea4882f
+
 
 # Flask Blogging Platform
 
